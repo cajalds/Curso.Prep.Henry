@@ -12,7 +12,6 @@ function deObjetoAmatriz(objeto){
   //Escribe tu código aquí
 }
 
-
 function numberOfCharacters(string) {
   //La función recibe un string. Recorre el srting y devuelve el caracter con el número de veces que aparece 
   //en formato par clave-valor.
